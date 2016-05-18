@@ -1,3 +1,3 @@
 var test = 'testing!';
 
-module.exports = test;
+export default test;
